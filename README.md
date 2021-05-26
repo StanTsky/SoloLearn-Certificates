@@ -8,10 +8,12 @@ My SoloLearn Certificates
 ![CSS](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1023-15783624.jpg)
 
 ## JS
-![JS](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1024-15783624.jpg)
+![JS1](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1024-15783624.jpg)
+![JS2](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1024.png)
 
 ## C++
-![C++](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1051-15783624.jpg)
+![C++1](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1051-15783624.jpg)
+![C++2](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1051.png)
 
 ## PHP
 ![PHP](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1059-15783624.jpg)
@@ -36,3 +38,9 @@ My SoloLearn Certificates
 
 ## jQuery
 ![jQuery](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1082-15783624.jpg)
+
+## C
+![C](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1089-15783624.jpg)
+
+## Angular + NestJS
+![Angular + NestJS](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1092-15783624.jpg)
