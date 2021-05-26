@@ -26,6 +26,10 @@ My SoloLearn Certificates
 
 ## Python 3
 ![Python 3](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1073-15783624.jpg)
+![Python 3](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1073.png)
+
+## Python for Beginners
+![Python for Beginners](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1157.png)
 
 ## Swift 4
 ![Swift 4](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1075-15783624.jpg)
