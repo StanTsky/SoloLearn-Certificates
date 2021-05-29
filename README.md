@@ -43,6 +43,9 @@ My SoloLearn Certificates
 ## React + Redux
 ![React + Redux](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1097-15783624.jpg)
 
+## Responsive Web Design
+![Responsive Web Design](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1162-15783624.jpg)
+
 ## Ruby
 ![Ruby](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1081-15783624.jpg)
 
