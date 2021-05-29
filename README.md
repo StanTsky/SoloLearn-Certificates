@@ -40,6 +40,9 @@ My SoloLearn Certificates
 ![Python Intermediate](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1158.png)
 ![Python Data Structures](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1159.png)
 
+## React + Redux
+![React + Redux](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1097-15783624.jpg)
+
 ## Ruby
 ![Ruby](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1081-15783624.jpg)
 
