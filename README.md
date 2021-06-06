@@ -30,6 +30,9 @@ My SoloLearn Certificates
 ![JS1](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1024-15783624.jpg)
 ![JS2](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1024.png)
 
+## Machine Learning
+![Machine Learning](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-15783624-1094.png)
+
 ## PHP
 ![PHP](https://raw.githubusercontent.com/StanTsky/SoloLearn-Certificates/main/cert-1059-15783624.jpg)
 
